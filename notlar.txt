@@ -1,0 +1,144 @@
+İlk önce ne yazacağıma karar vermem lazım.
+Bu dosyayı sadece ne yazacağımı planlamak için kullanacağım
+Onun dışında site yapmayacağım.
+
+
+----------------------------------------------
+    Kalp Atış Hızını Etkileyen Faktörler
+----------------------------------------------
+
+--Site Linkleri
+https://www.biyolojidersim.com/kalp-4-kalp-atisini-etkileyen-faktorler/
+https://www.ensonhaber.com/saglik/kalp-atis-hizinin-normal-degerleri-nedir
+https://www.aligurtuna.com/kalp-atisi-olcme-nabiz-hizi-tasikardi/
+https://esencanhastanesi.com.tr/kalbin-hizli-atmasinin-nedenleri-nelerdir/
+https://www.yardimcikaynaklar.com/kalp-atis-hizini-etkileyen-faktorler/
+https://nevrezkoylan.com/2021/10/kalp-hizi/
+https://tr.akilexsportswear.com/difference-heart-rate-according-gender
+------https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4190707/#:~:text=The%20human%20heart%20beats%20approximately,between%2078%20and%2082%20beats.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4190707/
+
+
+--Etkileyen Faktörler (Konu Başlıkları)
+
+1- Sinirler --> Sempatik ve Parasempatik
+2- Hormonlar --> Adrenalin (Epinefrin), Tiroksin, Noradrenalin (Norepinefrin), Asetilkolin
+3- Kandaki CO2 Miktarının Artması: CO2 miktarının artması kanın pH’ını düşürür ve kanın asitliği artar. Bu değişiklik omurilik soğanı tarafından algılanır ve kalp atışı hızlanır.
+4- Kafein, Çay ve Nikotin Gibi Kimyasal Maddeler
+5- Vücut Sıcaklığı
+6- Çevre Sıcaklığı
+7- Duygusal durumlar -->Ruhsal Gerginlikler, Heyecan, Korku ve Stres: Bu durumlarda adrenalin miktarı arttığı için kalp atışı hızlanır.
+8- Yaş
+9- Cinsiyet
+10- Vücut ağırlığı
+11- Spor düzeyi
+12- Kansızlık
+
+
+
+
+Bu yazıda sizlere kalp atış hızını etkileyen faktörlerden bahsedeceğim. Kimisi kalbin atış hızını yavaşlatırken, kimisi hızlandırır.
+Bu faktörler arasında: sinirler, hormonlar, kandaki karbondioksit miktarı, bazı kimyasallar, vücut ve çevre sıcaklığı, yaş, cinsiyet,
+duygu durumları vardır.
+
+------------Sinirler------------
+Kalbin atış hızı, sempatik ve parasempatik sinir sistemleri tarafından kontrol edilir. Sempatik sinir sistemi, kalp atış hızını ve kan
+basıncını artırırken; parasempatik sinir sistemi, kalp atış hızını ve kan basıncını azaltır. Sempatik sinir sisteminin 
+uyarılması, adrenalin ve noradrenalin gibi uyarıcı nörotransmitterlerin salgılanmasına neden olur. Bu da kalp kasılma hızını artırır.
+Parasempatik sinir sisteminin uyarılması ise asetilkolin gibi inhibitör nörotransmitterlerin salgılanmasına neden olur ve kalp atış 
+hızını yavaşlatır. Dolayısıyla, bu ikili sinir sisteminin dengesi kalp atış hızının düzenlenmesinde kritik rol oynar.
+
+
+------------Hormonlar------------
+Hormonlar da kalp atış hızını etkileyen önemli faktörlerden biridir. Özellikle adrenalin (epinefrin), nöradrenalin (norepinefrin)
+ve tiroksin gibi hormonlar kalp atışını hızlandıran etkiye sahiptir. Adrenalin, heyecan ve stres anında böbrek üstü bezleri tarafından
+(öz bölgesinde) salgılanır ve kalp kasılma gücünü ve hızını artırır. Nöradrenalin ise yine böbrek üstü bezlerinin öz bölgesinden
+salgılanan ve benzer şekilde kalp atışını hızlandıran bir hormondur. Adrenalin ve nöradrenalin sinirsel etkiler ile salgılanır.
+Tiroksin, tiroid bezinden salgılanır ve metabolizma hızını artırarak dolaylı olarak kalp atış hızını yükseltir.
+Buna karşın, asetilkolin, parasempatik sinir sistemi tarafından salgılanan bir nörotransmitterdir ve kalp kasılma hızını yavaşlatıcı 
+etki gösterir. Dolayısıyla hormonlar, hem merkezi sinir sistemi hem de hedef dokular üzerindeki etkileriyle kalp atış dinamiğini
+önemli ölçüde etkilerler.
+
+
+
+------------Kandaki CO2 Miktarı------------
+Kandaki karbondioksit (CO2) miktarının artması da kalp atış hızını etkileyen önemli faktörlerden biridir. CO2 miktarının artması, kanın
+pH değerini düşürür ve kanın asitliğini artırır. Bu değişiklik, omurilik soğanında bulunan solunum merkezi tarafından algılanır. Solunum
+merkezi, kalp atış hızını artırmak için uyarılar gönderir. Böylece daha hızlı kan pompalanmasıyla, akciğerlere daha fazla kan gitmesini
+ve CO2'in atılmasını sağlar. Sonuç olarak, CO2 birikimi vücudun asit-baz dengesini bozar ve bu durum kalp atış hızının artmasıyla telafi
+edilmeye çalışılır.
+
+
+
+------------Kimyasal Maddeler------------
+Kafein, tein, nikotin ve bazı ilaçlar gibi kimyasal maddeler de kalp atış hızını etkileyen faktörler arasındadır. 
+Örneğin, kafein merkezi sinir sistemini uyararak kalp atış hızını artırır. Çaydaki tein de benzer etki gösterir.
+Nikotin, sigara içildiğinde kana karışır ve sempatik sinir sistemini uyararak kalp atışını hızlandırır.
+Bazı ilaçlar ve uyarıcı maddeler de (efedrin, amfetamin vb.) sempatik sinir sistemini uyarmak suretiyle kalp atım sayısını
+yükseltir. Ancak bazı ilaçların da (beta blokerler gibi) kalp atım hızını düşürücü etkisi vardır.Dolayısıyla kimyasal maddeler, kalp
+üzerindeki sinirsel ve hormonal etkileri nedeniyle atım hızını önemli ölçüde değiştirebilir.
+
+
+
+------------Vücut ve Çevre Sıcaklığı------------
+Çevre sıcaklığı arttıkça kalp atış hızı yavaşlar, çevre sıcaklığı azaldıkça kalp atış hızı hızlanır. Bunları şu örneklerle açıklayabiliriz.
+Soğuk havada üşüdüğümüzde titremeye başlarız, metabolizma hızı artar, kalp atış hızı artar. Saunaya girince ise mayışmaya başlarız,
+metabolizma hızı azalır, kalp atış hızı artar. Ayrıntılı anlatmak gerekirse çevre sıcaklığı yaklaşık 25 derecenin altına düşünce kalp 
+atışı hızlanır, yaklaşık 35 derecenin üzerine çıkınca kalp atış hızı artar. Vücut sıcaklığının artması ve azalmasının ise etkileri 
+farklıdır. Vücut sıcaklığı azalınca kalp atış hızı yavaşlar, vücut sıcaklığı artınca kalp atış hızı hızlanmaya başlar. Bunları 
+örneklendirmek gerekirse, vücut azalmasını donmaya benzetebiliriz. Kalp atış hızı yavaş yavaş azalır ve ardından durur. Vücut 
+sıcaklığının artmasını da sıcak bir havada durmaya yapmaya benzetebiliriz. Vücudumuz ısındıkça metabolizma hızımız artar, vücut
+terlemeye başlar(bu şekilde vücudu soğutmaya çalışır), dolayısıyla kalp atış hızı da artar.
+
+--Bir tablo çizsen güzel olur--
+
+
+------------Yaş------------
+Yaş ilerledikçe kalp atış hızı yavaşlar. Yenidoğan bebeklerde kalp atış hızı dakikada 120-160 atım civarındadır. 1 yaşına gelindiğinde
+bu sayı 100-150'ye düşer. Yetişkinlerde ise istirahatte kalp atış hızı dakikada 60-100 atım arasındadır. Yaşlılarda kalp daha yavaş
+çalışır ve istirahatte dakikada 50-60 atım görülür. Bunun nedeni, yaşlanmayla birlikte kalp kasının gücünün ve iletim sisteminin
+verimliliğinin azalmasıdır. Ayrıca yaşlılarda sempatik sinir sisteminin uyarılması da gençlere göre daha azdır. Tüm bu değişiklikler
+sonucu ileri yaşlarda kalp daha yavaş çalışmaya başlar.
+
+--Bir fotoğraf koysan iyi olur(kalp atış hızı ile ilgili)--
+
+------------Cinsiyet------------
+Cinsiyet de kalp atış hızını etkileyen faktörlerden biridir. Genel olarak kadınların kalp atış hızı erkeklere göre daha yüksektir.
+İstirahatte erkeklerde dakikada 70-72 atım görülürken, kadınlarda bu sayı 78-82 atım civarındadır. Bunun nedenlerinden biri
+kadınların daha küçük kalp ve akciğer hacmine sahip olmasıdır. Aynı oksijen ihtiyacını karşılamak için kadın kalbi daha hızlı çalışmak
+zorundadır. Bir diğer neden ise kadınlarda sempatik sinir sisteminin daha aktif olmasıdır. Kadınlar stres altında erkeklere göre daha
+fazla adrenalin salgılar ve bu da kalp atış hızını artırır. Ayrıca kadınlarda adet döngüsüne bağlı olarak progesteron hormonu salgılanır
+ve bu hormonun da kalp atım sayısını yükseltici etkisi vardır. Sonuç olarak, fizyolojik ve hormonal farklılıklar nedeniyle kadınların
+kalp atış hızı erkeklere göre biraz daha yüksektir.
+
+
+
+------------Vücut Ağırlığı------------
+Vücut ağırlığı da kalp atış hızını etkileyen önemli bir faktördür. Genel olarak vücut ağırlığı arttıkça kalp atış hızı da artma
+eğilimindedir. Bunun nedeni, daha fazla vücut kütlesi için daha fazla kan pompalaması gerekmesidir. Obez bireylerde kalp atış hızı
+normal kilolu bireylere göre daha yüksektir. Çünkü obezlerde metabolik ihtiyaçlar ve oksijen ihtiyacı daha fazladır. Vücudun bu artan
+ihtiyaçları karşılamak için kalp daha hızlı çalışır. Benzer şekilde, kaslı ve güçlü bireylerde de daha fazla kas kitlesi olduğu için
+kalp atış hızı yüksektir. Kas kitlesinin fazla olması, daha fazla kan akışı ve oksijen ihtiyacı anlamına gelir. Sonuç olarak, vücut
+ağırlığı arttıkça kalbin pompalaması gereken kan miktarı da artar ve bu da kalp atış hızının yükselmesine neden olur. Ancak bu durum
+kalp sağlığı açısından risk oluşturabilir.
+
+
+
+------------Spor düzeyi------------
+Spor düzeyi de kalp atış hızını etkileyen önemli bir faktördür. Düzenli egzersiz yapan kişilerin kalp atış hızı, düzensiz spor yapan
+kişilerin veya hiç spor yapmayan kişilere göre daha düşüktür. Bunun nedeni, düzenli egzersizin kalp kasını güçlendirmesi ve daha verimli
+çalışmasını sağlamasıdır. Egzersiz sırasında kalp atış hızı artar çünkü kaslara daha fazla oksijen gitmesi gerekir. Ancak düzenli
+egzersiz yapan kişilerde bu artış daha kontrollü olur. Aynı egzersiz yükü altında, düzenli spor yapanın kalp atış hızı, düzensiz spor
+yapana göre daha düşüktür. Ayrıca düzenli egzersiz, sempatik sinir sistemi aktivitesini azaltır. Böylece kalp daha rahat çalışabilir.
+Sonuç olarak, düzenli spor yapmak kalbin daha güçlü ve verimli çalışmasını sağlar. Bu da dinlenme halinde daha düşük bir kalp atış hızı
+demektir.
+
+
+
+
+------------Kansızlık------------
+Kansızlık da kalp atış hızını etkileyen önemli bir faktördür. Kansızlıkta vücutta yeterli oksijen taşıyan kırmızı kan hücresi yoktur.
+Bu nedenle dokulara yeterli oksijen gitmez ve metabolik ihtiyaçlar karşılanamaz. Vücut bu oksijen yetersizliğini telafi etmek için kalp 
+atış hızını artırır. Çünkü kalp atış hızı arttıkça dakikada pompalanan kan miktarı da artar. Böylece birim zamanda daha fazla oksijen 
+taşınabilir. Ayrıca kansızlıkta kan viskozitesi artar. Akışkanlığı azalan kanı pompalamak için kalbin daha hızlı çalışması gerekir. 
+Sonuç olarak, hem doku oksijenlenmesini artırmak hem de viskoz kanı pompalamak için kansız kişilerde kalp atış hızı yükselir.

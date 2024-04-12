@@ -38,8 +38,8 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4190707/
 
 
 Bu yazıda sizlere kalp atış hızını etkileyen faktörlerden bahsedeceğim. Kimisi kalbin atış hızını yavaşlatırken, kimisi hızlandırır.
-Bu faktörler arasında: sinirler, hormonlar, kandaki karbondioksit miktarı, bazı kimyasallar, vücut ve çevre sıcaklığı, yaş, cinsiyet,
-duygu durumları vardır.
+Bu faktörler arasında: sinirler, hormonlar, kandaki karbondioksit miktarı, bazı kimyasallar, vücut ve çevre sıcaklığı, yaş, cinsiyet vb.
+durumlar vardır.
 
 ------------Sinirler------------
 Kalbin atış hızı, sempatik ve parasempatik sinir sistemleri tarafından kontrol edilir. Sempatik sinir sistemi, kalp atış hızını ve kan

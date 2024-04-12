@@ -142,3 +142,13 @@ Bu nedenle dokulara yeterli oksijen gitmez ve metabolik ihtiyaçlar karşılanam
 atış hızını artırır. Çünkü kalp atış hızı arttıkça dakikada pompalanan kan miktarı da artar. Böylece birim zamanda daha fazla oksijen 
 taşınabilir. Ayrıca kansızlıkta kan viskozitesi artar. Akışkanlığı azalan kanı pompalamak için kalbin daha hızlı çalışması gerekir. 
 Sonuç olarak, hem doku oksijenlenmesini artırmak hem de viskoz kanı pompalamak için kansız kişilerde kalp atış hızı yükselir.
+
+
+
+
+------------Çıkarım Paragrafı------------
+Yazdıklarımdan yola çıkarak, kalp atış hızının birçok faktörden bahsedebiliriz. Yaş, cinsiyet, vücut ağırlığı, spor
+düzeyi ve kansızlık vb. faktörler kalp atış hızı üzerinde belirleyici rol oynar. Genel olarak, ileri 
+yaş, kadın cinsiyet, yüksek vücut ağırlığı, düşük spor düzeyi ve kansızlık durumlarında kalp daha hızlı atma eğilimindedir. Bunun temel 
+nedeni, bu durumlarda kalbin daha fazla kan pompalaması gerekmesi ve metabolik ihtiyaçların artmasıdır. Ancak kalp atış hızındaki bu 
+artışlar kalp sağlığı açısından risk oluşturabilir.
